@@ -1,3 +1,5 @@
 # THEME CHANGER
-<em>This is a theme changer template .
-Using this template we can switch themes between "light", "dark" and "solarize" mode.
+Switching between **light** theme and **dark** theme is a modern practice in web technology. 
+
+This code uses minmal css and js to switch between themes. 
+
