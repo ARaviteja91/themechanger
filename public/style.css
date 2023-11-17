@@ -136,7 +136,7 @@ header{
 }
 
 .logo:hover{
-    animation: color-rotate 1s infinite alternate;
+    animation: color-rotate 1s alternate;
 }
 
 #dark::before {
